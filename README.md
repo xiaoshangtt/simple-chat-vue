@@ -6,8 +6,10 @@
 
 开启服务 npm run dev
 
+* 端口是3500
+
 ## myserve 服务器（ws） 
 
 开启服务 npm run start
 
-* 注意端口是3500
+* 端口是3000
