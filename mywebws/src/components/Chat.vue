@@ -140,7 +140,7 @@ import "element-plus/theme-chalk/el-message.css";
 const host =
   process.env.NODE_ENV == "development"
     ? "ws://localhost:3000"
-    : "ws://112.124.66.175:3000";
+    : "ws://ip:3000";
 
 const userInfo = reactive({
   id: 0,
